@@ -2,11 +2,11 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.neo4j.tools</groupId>
-    <artifactId>xsbt-neo4j</artifactId>
+    <artifactId>xsbt-neo4j-plugin</artifactId>
     <packaging>jar</packaging>
-    <description>xsbt-neo4j</description>
+    <description>xsbt-neo4j-plugin</description>
     <version>0.1.0-SNAPSHOT</version>
-    <name>xsbt-neo4j</name>
+    <name>xsbt-neo4j-plugin</name>
     <organization>
         <name>org.neo4j.tools</name>
     </organization>
